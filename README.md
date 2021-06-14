@@ -32,15 +32,16 @@ Este repositorio está elaborado para aprender sobre Node.js y su tecnología as
 | 04-tareas-hacer | [Curso_NodeJs/04-tareas-hacer/readme.md][04] |
 | 05-open-wather-maps | [Curso_NodeJs/05-open-wather-maps/readme.md][05] |
 | 06-webserver-http-express-hbs | [Curso_NodeJs/06-webserver-http-express-hbs/readme.md][06] |
+| 07-restserver-configuración inicial | [Curso_NodeJs/07-rest-server/readme.md][07] |
 
 ## Despliegues
 
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
+Estos despliegues se hicieron en Heroku.
 
 | Hosting | Url |
 | ------ | ------ |
 | Heroku | [curso-node-marioglz][d06] |
+| Heroku | [curso-node-restserver-marioglz][d07] |
 
 ## Creditos
 #### Fernando Herrera [Node: De cero a experto ( Edición 2021 )][credito]
@@ -52,7 +53,10 @@ Instructions on how to use them in your own application are linked below.
    [04]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/04-tareas-hacer/readme.md>
    [05]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/05-open-wather-maps/readme.md>
    [06]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/06-webserver-http-express-hbs/readme.md>
+
+   [07]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/07-rest-server/readme.md>
    
    [d06]: <https://curso-node-marioglz.herokuapp.com/>
+   [d06]: <https://curso-node-restserver-marioglz.herokuapp.com/>
    
    [credito]: <https://www.udemy.com/course/node-de-cero-a-experto/>
