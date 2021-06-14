@@ -57,6 +57,6 @@ Estos despliegues se hicieron en Heroku.
    [07]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/07-rest-server/readme.md>
    
    [d06]: <https://curso-node-marioglz.herokuapp.com/>
-   [d06]: <https://curso-node-restserver-marioglz.herokuapp.com/>
+   [d07]: <https://curso-node-restserver-marioglz.herokuapp.com/>
    
    [credito]: <https://www.udemy.com/course/node-de-cero-a-experto/>
