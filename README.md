@@ -34,6 +34,7 @@ Este repositorio está elaborado para aprender sobre Node.js y su tecnología as
 | 06-webserver-http-express-hbs | [Curso_NodeJs/06-webserver-http-express-hbs/readme.md][06] |
 | 07-restserver-configuración inicial | [Curso_NodeJs/07-rest-server/readme.md][07] |
 | 08-restserver-configuración crud | [Curso_NodeJs/08-rest-server-coleccion-usuarios/readme.md][08] |
+| 09-restserver-configuración jwt | [Curso_NodeJs/09-autenticacion-usuarios-jwt/readme.md][09] |
 
 ## Despliegues
 
@@ -56,6 +57,7 @@ Estos despliegues se hicieron en Heroku.
    [06]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/06-webserver-http-express-hbs/readme.md>
    [07]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/07-rest-server/readme.md>
    [08]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/08-rest-server-coleccion-usuarios/readme.md>
+   [09]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/09-autenticacion-usuarios-jwt/readme.md>
    
    [d06]: <https://curso-node-marioglz.herokuapp.com/>
    [d07]: <https://curso-node-restserver-marioglz.herokuapp.com/>
