@@ -36,6 +36,7 @@ Este repositorio está elaborado para aprender sobre Node.js y su tecnología as
 | 08-restserver-configuración crud | [Curso_NodeJs/08-rest-server-coleccion-usuarios/readme.md][08] |
 | 09-restserver-configuración jwt | [Curso_NodeJs/09-autenticacion-usuarios-jwt/readme.md][09] |
 | 10-restserver-configuración google | [Curso_NodeJs/10-google-signin-front-back/readme.md][10] |
+| 11-restserver-categorias-productos | [Curso_NodeJs/11-categorias-productos/readme.md][11] |
 
 ## Despliegues
 
@@ -60,6 +61,7 @@ Estos despliegues se hicieron en Heroku.
    [08]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/08-rest-server-coleccion-usuarios/readme.md>
    [09]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/09-autenticacion-usuarios-jwt/readme.md>
    [10]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/10-google-signin-front-back/readme.md>
+   [11]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/11-categorias-productos/readme.md>
    
    [d06]: <https://curso-node-marioglz.herokuapp.com/>
    [d07]: <https://curso-node-restserver-marioglz.herokuapp.com/>
