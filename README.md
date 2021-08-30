@@ -37,6 +37,7 @@ Este repositorio está elaborado para aprender sobre Node.js y su tecnología as
 | 09-restserver-configuración jwt | [Curso_NodeJs/09-autenticacion-usuarios-jwt/readme.md][09] |
 | 10-restserver-configuración google | [Curso_NodeJs/10-google-signin-front-back/readme.md][10] |
 | 11-restserver-categorias-productos | [Curso_NodeJs/11-categorias-productos/readme.md][11] |
+| 12-12-carga-proteccion-archivos | [Curso_NodeJs/12-carga-proteccion-archivos/readme.md][12] |
 
 ## Despliegues
 
@@ -62,6 +63,7 @@ Estos despliegues se hicieron en Heroku.
    [09]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/09-autenticacion-usuarios-jwt/readme.md>
    [10]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/10-google-signin-front-back/readme.md>
    [11]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/11-categorias-productos/readme.md>
+   [12]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/12-carga-proteccion-archivos/readme.md>
    
    [d06]: <https://curso-node-marioglz.herokuapp.com/>
    [d07]: <https://curso-node-restserver-marioglz.herokuapp.com/>
