@@ -37,7 +37,8 @@ Este repositorio está elaborado para aprender sobre Node.js y su tecnología as
 | 09-restserver-configuración jwt | [Curso_NodeJs/09-autenticacion-usuarios-jwt/readme.md][09] |
 | 10-restserver-configuración google | [Curso_NodeJs/10-google-signin-front-back/readme.md][10] |
 | 11-restserver-categorias-productos | [Curso_NodeJs/11-categorias-productos/readme.md][11] |
-| 12-12-carga-proteccion-archivos | [Curso_NodeJs/12-carga-proteccion-archivos/readme.md][12] |
+| 12-carga-proteccion-archivos Cloudinary | [Curso_NodeJs/12-carga-proteccion-archivos/readme.md][12] |
+| 13-fundamentos_sockets Socket.io | [Curso_NodeJs/13-fundamentos_sockets/readme.md][13] |
 
 ## Despliegues
 
@@ -47,6 +48,7 @@ Estos despliegues se hicieron en Heroku.
 | ------ | ------ |
 | Heroku | [curso-node-marioglz][d06] |
 | Heroku | [curso-node-restserver-marioglz][d07] |
+| Heroku | [curso-node-websocket-marioglz][d08] |
 
 ## Creditos
 #### Fernando Herrera [Node: De cero a experto ( Edición 2021 )][credito]
@@ -64,8 +66,10 @@ Estos despliegues se hicieron en Heroku.
    [10]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/10-google-signin-front-back/readme.md>
    [11]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/11-categorias-productos/readme.md>
    [12]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/12-carga-proteccion-archivos/readme.md>
+   [13]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/13-fundamentos_sockets/readme.md>
    
    [d06]: <https://curso-node-marioglz.herokuapp.com/>
    [d07]: <https://curso-node-restserver-marioglz.herokuapp.com/>
+   [d08]: <https://curso-node-websocket-marioglz.herokuapp.com/>
    
    [credito]: <https://www.udemy.com/course/node-de-cero-a-experto/>
