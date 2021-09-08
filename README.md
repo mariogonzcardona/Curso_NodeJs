@@ -39,6 +39,7 @@ Este repositorio está elaborado para aprender sobre Node.js y su tecnología as
 | 11-restserver-categorias-productos | [Curso_NodeJs/11-categorias-productos/readme.md][11] |
 | 12-carga-proteccion-archivos Cloudinary | [Curso_NodeJs/12-carga-proteccion-archivos/readme.md][12] |
 | 13-fundamentos_sockets Socket.io | [Curso_NodeJs/13-fundamentos_sockets/readme.md][13] |
+| 14-sockets-aplicacion-en-cola | [Curso_NodeJs/14-sockets-aplicacion-en-cola/readme.md][14] |
 
 ## Despliegues
 
@@ -67,6 +68,7 @@ Estos despliegues se hicieron en Heroku.
    [11]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/11-categorias-productos/readme.md>
    [12]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/12-carga-proteccion-archivos/readme.md>
    [13]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/13-fundamentos_sockets/readme.md>
+   [14]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/14-sockets-aplicacion-en-cola/readme.md>
    
    [d06]: <https://curso-node-marioglz.herokuapp.com/>
    [d07]: <https://curso-node-restserver-marioglz.herokuapp.com/>

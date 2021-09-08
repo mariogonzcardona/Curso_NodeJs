@@ -1,5 +1,5 @@
 {
-  "name": "07-rest-server",
+  "name": "09-autenticacion-usuarios-jwt",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
