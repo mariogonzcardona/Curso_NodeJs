@@ -41,6 +41,7 @@ Este repositorio está elaborado para aprender sobre Node.js y su tecnología as
 | 13-fundamentos_sockets Socket.io | [Curso_NodeJs/13-fundamentos_sockets/readme.md][13] |
 | 14-sockets-aplicacion-en-cola | [Curso_NodeJs/14-sockets-aplicacion-en-cola/readme.md][14] |
 | 15-restserver-websocket-autentication | [Curso_NodeJs/15-restserver-websocket-autentication/readme.md][15] |
+| 16-typescript-mysql | [Curso_NodeJs/16-typescript-mysql/readme.md][16] |
 
 ## Despliegues
 
@@ -71,7 +72,9 @@ Estos despliegues se hicieron en Heroku.
    [13]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/13-fundamentos_sockets/readme.md>
    [14]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/14-sockets-aplicacion-en-cola/readme.md>
    [15]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/15-restserver-websocket-autentication/readme.md>
+   [16]: <https://github.com/mariogonzcardona/Curso_NodeJs/blob/main/16-typescript-mysql/readme.md>
    
+
    [d06]: <https://curso-node-marioglz.herokuapp.com/>
    [d07]: <https://curso-node-restserver-marioglz.herokuapp.com/>
    [d08]: <https://curso-node-websocket-marioglz.herokuapp.com/>
